@@ -22,7 +22,7 @@
 | **Tagline** | Smart Energy & Bill Optimizer |
 | **Document Type** | Product Requirements Document (PRD) |
 | **Version** | 1.0 (Hackathon MVP) |
-| **Author** | Taha Bilal |
+| **Author** | Team Project |
 | **Platform** | Web Application (Responsive Desktop & Mobile) |
 
 ---
@@ -98,8 +98,28 @@
 - [ ] **Solar ROI Calculator:** Recommending kW solar systems based on user energy audits.
 - [ ] **Urdu Localization:** Multi-lingual support for broader accessibility in Pakistan.
 
+---
+
+## 👥 Team Project
+
+Bijli Bachat AI was developed as a collaborative hackathon project by a team of 6 members.
+
+### My Contribution
+
+I contributed to the project as a team member. My contributions included documentation, project presentation, sharing ideas and suggestions with the team, testing, and providing guidance during implementation.
+
+### 📊 Project Presentation
+
+Here is our project presentation:
+
+[View Project Presentation](https://lnkd.in/dtH5Bkij)
+
+This repository is my personal fork of the original team repository, maintained for portfolio and learning purposes.
+
+### Original Repository
+
+The project was originally developed collaboratively by the team.
+
 <br>
 
-<div align="center">
-  <p><i>Developed with ❤️ for a greener, energy-efficient Pakistan.</i></p>
-</div>
+<div align="center"> <p><i>Developed with ❤️ for a greener, energy-efficient Pakistan.</i></p> </div>
