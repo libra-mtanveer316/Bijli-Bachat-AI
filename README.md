@@ -104,6 +104,13 @@
 
 Bijli Bachat AI was developed as a collaborative hackathon project by a team of 6 members.
 
+- Tooba Nasir
+- Taha Bilal
+- Muhammad Tanveer
+- Sana Nawaz
+- Muhammad Aneeb Shahzad
+- Malak Muhammad Hashim
+
 ### My Contribution
 
 I contributed to the project as a team member. My contributions included documentation, project presentation, sharing ideas and suggestions with the team, testing, and providing guidance during implementation.
@@ -118,7 +125,9 @@ This repository is my personal fork of the original team repository, maintained 
 
 ### Original Repository
 
-The project was originally developed collaboratively by the team.
+The project was originally developed collaboratively by the team..
+
+[View Original Repository](https://github.com/adnovapk-0102/Bijli-Bachat-AI-Smart-Energy-Bill-Optimizer-)
 
 <br>
 
