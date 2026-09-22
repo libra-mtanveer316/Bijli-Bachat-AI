@@ -104,16 +104,16 @@
 
 Bijli Bachat AI was developed as a collaborative hackathon project by a team of 6 members.
 
-- Tooba Nasir
-- Taha Bilal
-- Muhammad Tanveer
-- Sana Nawaz
-- Muhammad Aneeb Shahzad
-- Malak Muhammad Hashim
+- Tooba Nasir (Leader)
+- Taha Bilal (1st Member)
+- Muhammad Tanveer (2nd Member)
+- Sana Nawaz (3rd Member)
+- Muhammad Aneeb Shahzad (4th Member)
+- Malak Muhammad Hashim (5th Member)
 
 ### My Contribution
 
-I contributed to the project as a team member. My contributions included documentation, project presentation, sharing ideas and suggestions with the team, testing, and providing guidance during implementation.
+I contributed to the project as a team member. My contributions included documentation, project presentation, sharing ideas and suggestions with the team, testing and providing guidance during implementation.
 
 ### 📊 Project Presentation
 
